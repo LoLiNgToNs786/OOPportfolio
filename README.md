@@ -1,6 +1,6 @@
 
 # OOP 2024 Portfolio
-## Zak butt
+## Zakariya Butt
 ### CS4A
 ### S Kumar
 
